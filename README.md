@@ -7,7 +7,7 @@ You don’t have to do the tasks in order, except for the first one (obviously),
 You have a link to a very good and very long tutorial about raycasting in the Tips and links section below, so read it very carefully, and practice !
 
 Please have a lot of fun doing this project !<br>
-![game](mazeGameDev/a.gif)
+![game](mazeGameDev/img/a.gif)
 ## Requirements
 ### General
 - All your files will be compiled on Ubuntu 14.04 LTS, using gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
@@ -41,7 +41,7 @@ In this first part, you’ll have to:
 - You don’t need to be able to rotate the camera during the execution in this part, but you must provide a way to change the angle of the camera in your code to see if it works after recompiling it
 - The color of the walls must be different from the color of the ground/ceil
 - The map doesn’t need to be parsed from a file, but you must provide a way to modify it in your code to see if it works after recompiling it. (e.g. using an array of arrays of integers or characters).<br>
-Example:![img](mazeGameDev/b.png)
+Example:![img](mazeGameDev/img/b.png)
 In the following image, the camera is the red square, and the visible area is painted in green:
 
 
